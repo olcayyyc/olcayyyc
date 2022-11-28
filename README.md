@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Olcay from Turkey 🇹🇷 Flag
+- 👋 Hi, I’m Olcay from Turkey
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning & Deep Learning
 - 📫 How to reach me - olcaycelik59@gmail.com
